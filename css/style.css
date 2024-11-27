@@ -1,0 +1,15 @@
+
+h1 {
+    font-size: 5rem;
+}
+
+button {
+
+    height: 80px;
+}
+
+
+
+button:hover{
+    background-color: green;
+}
